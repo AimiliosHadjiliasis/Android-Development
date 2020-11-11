@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrucketChips</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="did_you_know_string"> You can calculate the temperature outside by counting the number of chirps the cricket makes? Just the number of chirps one makes in 25 seconds and place that number in the box below:</string>
+    <string name="number_hint">Enter number of chirps per 25 sec</string>
+    <string name="btnCalculate">Calculate</string>
+</resources>
