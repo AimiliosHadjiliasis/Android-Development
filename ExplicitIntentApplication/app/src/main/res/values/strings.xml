@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExplicitIntentApplication</string>
+    <string name="text_hint">Please Enter your name</string>
+</resources>
